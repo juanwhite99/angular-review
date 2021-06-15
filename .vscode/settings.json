@@ -1,0 +1,48 @@
+{
+    "codemetrics.basics.CodeLensHiddenUnder": 11,
+    "codemetrics.basics.ComplexityLevelHigh": 15,
+    "codemetrics.basics.ComplexityLevelExtreme": 20,
+    "codemetrics.basics.ComplexityLevelNormal": 10,
+    "codemetrics.basics.EnabledForHTML": false,
+    "codemetrics.basics.MetricsForClassDeclarationsToggled": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.tslint": true
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.linkedEditing": true,
+    "editor.tabSize": 2,
+    "errorLens.delay": 1000,
+    "errorLens.addAnnotationTextPrefixes": true,
+    "files.eol": "\n",
+    "files.trimTrailingWhitespace": true,
+    "git.autofetch": true,
+    "material-icon-theme.activeIconPack": "angular_ngrx",
+    "material-icon-theme.showUpdateMessage": false,
+    "npm.exclude": "node_modules",
+    "prettier.arrowParens": "avoid",
+    "prettier.endOfLine": "lf",
+    "prettier.printWidth": 100,
+    "prettier.semi": true,
+    "prettier.singleQuote": true,
+    "prettier.tabWidth": 2,
+    "prettier.trailingComma": "es5",
+    "prettier.useTabs": false,
+    "prettier.htmlWhitespaceSensitivity": "ignore",
+    "telemetry.enableTelemetry": false,
+    "typescript.referencesCodeLens.enabled": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "search.exclude": {
+      "**/bin": true,
+      "**/obj": true
+    },
+    "files.exclude": {
+      "**/bin": true,
+      "**/node_modules": true,
+      "**/e2e": true,
+      "**/obj": true
+    },
+    "typescript.tsdk": "node_modules\\typescript\\lib"
+  }
+  

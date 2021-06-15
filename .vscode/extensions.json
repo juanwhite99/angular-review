@@ -1,0 +1,22 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "angular.ng-template",
+    "christian-kohler.path-intellisense",
+    "coenraads.bracket-pair-colorizer-2",
+    "eamodio.gitlens",
+    "editorconfig.editorconfig",
+    "emilast.logfilehighlighter",
+    "esbenp.prettier-vscode",
+    "gruntfuggly.todo-tree",
+    "kisstkondoros.vscode-codemetrics",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "ms-vsliveshare.vsliveshare",
+    "oouo-diogo-perdigao.docthis",
+    "pkief.material-icon-theme",
+    "sainoba.px-to-rem",
+    "usernamehw.errorlens",
+    "vsls-contrib.gistfs",
+    "shd101wyy.markdown-preview-enhanced"
+  ]
+}
