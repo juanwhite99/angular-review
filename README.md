@@ -1,6 +1,57 @@
 # ExampleApp
 
+## Notes
+
+### Pipes:
+
+- `tap`
+- `flatMap`
+- `catchError`
+
+- `async`
+  - The async pipe automatically subscribes and unsubscribes for us
+
+#### Higher-Order Mapping Operators
+
+- `switchMap`
+
+  - Stops the current operation and performs the new operation
+
+- `concatMap`
+
+  - Performs each operation one at a time, in order
+
+- `mergeMap`
+
+  - Performs each operation concurrently
+
+### Notation
+
+`variable$`
+Dollar Sign at the end indicates that is an observable and not the actual data
+
+```
+products$ = this.http.get<Product[]>(url)
+```
+
+### RxJs Patterns in Angular
+
+- Declarative Data Access Pattern
+- Subject / BehaviorSubject
+- Retrieve on Action Pattern
+
+---
+
+# About this app
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
+
+To update to the lates angular cli version:
+
+```
+npm uninstall -g @angular/cli
+npm install -g @angular/cli@latest
+```
 
 ## Development server
 
